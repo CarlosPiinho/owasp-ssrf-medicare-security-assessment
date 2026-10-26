@@ -79,6 +79,6 @@ As evidências completas e cronológicas encontram-se no diretório [`evidencias
 ---
 
 ## 👨‍💻 Autor
-* **Carlos Vinicius de Pinho**  
+* **Carlos Eduardo Gomes Pinho**  
 * Curso de Segurança da Informação - Universidade Nove de Julho (UNINOVE)  
-* [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+* [LinkedIn](https://www.linkedin.com/in/carlospinhoo/)
